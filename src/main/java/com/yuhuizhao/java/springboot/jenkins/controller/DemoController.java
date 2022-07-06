@@ -9,7 +9,7 @@ public class DemoController {
     @GetMapping
     public String demo() {
 
-        return "demo";
+        return "demo2";
     }
 
 }
